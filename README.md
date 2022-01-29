@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">A computer engineering student in Istanbul,Turkey</h3>
 
-- 🌱 I’m currently learning **Blockchain and Solidity**
+- 🌱 I’m currently learning **Blockchain and Human-Computer Interaction**
 
 - 📫 How to reach me **ardakilicbm@gmail.com**
 
