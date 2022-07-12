@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">A computer engineering student in Istanbul,Turkey</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Java Spring**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **ardakilicbm@gmail.com**
 
