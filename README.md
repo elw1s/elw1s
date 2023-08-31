@@ -3,7 +3,7 @@
 
 - 🌱 Currently trying to improve at **Computer Vision**
 
-- 📫 How to reach me **ardakilicbm@gmail.com**
+- 📫 Reach me through **ardakilicbm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
