@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
-<h3 align="center">Artificial Intelligence Engineer based in Istanbul</h3>
+<h3 align="center">AI & C++ Engineer based in Istanbul</h3>
 
 - 🌱 I’m currently learning **Computer Vision**
 
