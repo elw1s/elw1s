@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">AI & C++ Engineer based in Istanbul</h3>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision** and improving my **C++** skills.
 
 - 📫 How to reach me **ardakilicbm@gmail.com**
 
